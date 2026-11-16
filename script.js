@@ -151,7 +151,7 @@ const moviesData = [
         poster: "https://image.tmdb.org/t/p/w500/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
         backdrop: "https://image.tmdb.org/t/p/original/95ckrV6wQgbffurAVmETQ5YKASL.jpg",
         videoType: "youtube",
-        videoUrl: "https://www.youtube.com/embed/DxxnVCivKt8?autoplay=1",
+        videoUrl: "https://www.youtube-nocookie.com/embed/DxxnVCivKt8?autoplay=1",
         featured: false
     },
     {
@@ -183,7 +183,7 @@ const moviesData = [
         poster: "https://image.tmdb.org/t/p/w500/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
         backdrop: "https://image.tmdb.org/t/p/w500/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
         videoType: "youtube",
-        videoUrl: "https://www.youtube.com/embed/pR30knJs4Xk?autoplay=1",
+        videoUrl: "https://www.youtube-nocookie.com/embed/5P8u7x_bqpc?autoplay=1",
         featured: false
     },
     {
@@ -215,7 +215,7 @@ const moviesData = [
         poster: "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
         backdrop: "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
         videoType: "youtube",
-        videoUrl: "https://www.youtube.com/embed/2m1drlOZSDw?autoplay=1",
+        videoUrl: "https://www.youtube-nocookie.com/embed/2m1drlOZSDw?autoplay=1",
         featured: false
     },
     {
@@ -231,7 +231,7 @@ const moviesData = [
         poster: "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
         backdrop: "https://image.tmdb.org/t/p/original/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
         videoType: "youtube",
-        videoUrl: "https://www.youtube.com/embed/Ga6RYejo6Hk?autoplay=1",
+        videoUrl: "https://www.youtube-nocookie.com/embed/Ga6RYejo6Hk?autoplay=1",
         featured: false
     },
     {
@@ -279,7 +279,7 @@ const moviesData = [
         poster: "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
         backdrop: "https://image.tmdb.org/t/p/original/hiKmpFcDHio6jLXGeNyRyuARUb5.jpg",
         videoType: "youtube",
-        videoUrl: "https://www.youtube.com/embed/isOGD_7hNIY?autoplay=1",
+        videoUrl: "https://www.youtube-nocookie.com/embed/isOGD_7hNIY?autoplay=1",
         featured: false
     }
         ,
@@ -328,7 +328,7 @@ const moviesData = [
         poster: "https://upload.wikimedia.org/wikipedia/en/6/69/Toy_Story_3_poster.jpg",
         backdrop: "https://image.tmdb.org/t/p/original/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
         videoType: "youtube",
-        videoUrl: "https://www.youtube.com/embed/ZZwBuqN9g3c?autoplay=1",
+        videoUrl: "https://www.youtube-nocookie.com/embed/ZZwBuqN9g3c?autoplay=1",
         featured: false
     },
     {
@@ -360,7 +360,7 @@ const moviesData = [
         poster: "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
         backdrop: "https://image.tmdb.org/t/p/original/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
         videoType: "youtube",
-        videoUrl: "https://www.youtube.com/embed/qtRKdVHc-cE?autoplay=1",
+        videoUrl: "https://www.youtube-nocookie.com/embed/qtRKdVHc-cE?autoplay=1",
         featured: false
     },
     {
