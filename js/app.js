@@ -288,6 +288,11 @@ function openPlayerModal(movie) {
         `;
     }
 
+    const extLink = document.getElementById("playerExternalLink");
+    if (extLink) {
+        extLink.href = movie.videoUrl.replace('/embed/', '/watch?v=').replace('youtube-nocookie.com', 'youtube.com');
+    }
+
     updatePlayerFavBtn(movie.id);
     if (elements.playerFavBtn) {
     elements.playerFavBtn.onclick = () => {
